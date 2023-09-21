@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="homeText" type="id" />
+    <item name="setting" type="id" />
+    <item name="chatting" type="id" />
+</resources>

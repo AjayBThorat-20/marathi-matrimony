@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2">
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:padding="20dp">
+
+
+       <ImageView
+           android:id="@+id/imageView2"
+           android:layout_width="60dp"
+           android:layout_height="60dp"
+           android:layout_alignParentStart="true"
+           android:contentDescription="@string/todo"
+           app:srcCompat="@drawable/ic_account" />
+
+       <TextView
+           android:id="@+id/textView"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/marathi_matrimony"
+           android:textSize="20sp"
+           android:textColor="#000"
+           android:layout_marginStart="50dp"
+           android:layout_centerHorizontal="true"
+           android:layout_centerVertical="true"/>
+
+       <ImageView
+           android:id="@+id/imageView3"
+           android:layout_width="60dp"
+           android:layout_height="60dp"
+           app:srcCompat="@drawable/ic_account"
+           android:layout_alignParentEnd="true"
+           android:contentDescription="@string/todo" />
+   </RelativeLayout>
+
+
+
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:itemBackground="@color/colorPrimary"
+        app:itemHorizontalTranslationEnabled="false"
+        app:itemIconTint="@drawable/selector"
+        app:itemTextColor="@drawable/selector"
+        app:menu="@menu/menu_navigation" />
+
+</RelativeLayout>

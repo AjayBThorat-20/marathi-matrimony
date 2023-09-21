@@ -1,0 +1,85 @@
+<resources>
+    <!--    login-->
+    <string name="app_name">Matrimonial</string>
+    <string name="heading_login">LOGIN</string>
+    <string name="enter_your_emailid">Enter Your Email ID</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="remember_me_btn">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="create_new_account_text">Create New Account ?</string>
+
+
+    <!--    register-->
+    <string name="heading_register">Register</string>
+    <string name="name">Name</string>
+    <string name="enter_mobile_no">Enter Mobile No</string>
+    <string name="confrim_password">Confirm Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register">register</string>
+    <string name="existin_account">Existing User! \n Go to Sign In Page</string>
+    <string name="settingtext">setting</string>
+    <string name="logutbtn">logout</string>
+    <string name="searchtext">search</string>
+
+
+    <string name="homeText">home</string>
+    <string name="accounttext">account</string>
+
+    <!--    bottom nav-->
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="like">Like</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">SAVE</string>
+    <string name="gallery">GALLERY</string>
+    <string name="post">Post</string>
+    <string name="interested">Interested</string>
+    <string name="accholdername">Name</string>
+    <string name="accholdergender">Gender</string>
+    <string name="accholderage">Age</string>
+    <string name="job_titel">Job Titel</string>
+    <string name="accholderaddress">From</string>
+    <string name="accholderbirth_date">Birth Date</string>
+    <string name="company_name">Company Name</string>
+    <string name="education">Education</string>
+    <string name="u_name">u_name</string>
+    <string name="u_age">u_age</string>
+    <string name="u_edu">u_edu</string>
+    <string name="u_job">u_job</string>
+    <string name="u_company">u_company</string>
+    <string name="u_add">u_add</string>
+    <string name="textview">TextView</string>
+
+
+    <!--    settings-->
+    <string name="username">Username</string>
+    <string name="hey_there_s_i_am_using_whatsapp">Hey there\'s I am using WhatsApp</string>
+    <string name="account">Account</string>
+    <string name="privacy_security_change_number">Privacy, security, change number</string>
+    <string name="chats">Chats</string>
+    <string name="thems_wallpapers_chat_history">Thems, wallpapers, chat history</string>
+    <string name="notifications">Notifications</string>
+    <string name="message_call_tones">Message, call tones</string>
+    <string name="data_and_storage_usage">Data and storage usage</string>
+    <string name="network_usage_auto_download">Network usage, auto-download</string>
+    <string name="help">Help</string>
+    <string name="faq_contact_us_privacy_policy">FAQ, contact us, privacy policy</string>
+    <string name="invite_a_friend">Invite a friend</string>
+    <string name="from">from</string>
+    <string name="f_a_c_e_b_o_o_k">F A C E B O O K</string>
+    <string name="emperor">E_M_P_E_R_O_R</string>
+    <string name="marathi_matrimony">Marathi Matrimony</string>
+    <string name="_15">15</string>
+    <string name="_23">23</string>
+    <string name="_8">8</string>
+    <string name="add_other_user">Add Other User</string>
+    <string name="accholdercompany">Company</string>
+
+</resources>

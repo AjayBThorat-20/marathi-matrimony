@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Post"
+        android:title="@string/like"
+        android:icon="@drawable/ic_like"
+        />
+
+    <item
+        android:id="@+id/Interested"
+        android:title="@string/comment"
+        android:icon="@drawable/ic_comment"
+        />
+
+    <item
+        android:id="@+id/Like"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share"
+        />
+
+
+
+</menu>
